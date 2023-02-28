@@ -1,0 +1,31 @@
+.heading{
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(26, 9, 9);
+    margin-top: auto;
+}
+
+
+.form{
+    max-width: 75%;
+    margin: auto;
+    margin-top: 45px;
+  
+
+}
+.form-control {
+    border: 2px solid black;
+    border-radius: 1.5rem;
+   
+}
+.btn {
+    
+    border-radius: 9px;
+	color: aqua;
+	background-color: rgb(131, 7, 7);
+}
+
+.table{
+    max-width: 75%;
+    margin: 30px auto;
+}
